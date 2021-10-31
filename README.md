@@ -6,5 +6,5 @@
 ![Screenshot](./output/3.png)
 
 ##Live Website
-[CLick-Here]()
+[CLick-Here](https://ajf2003.github.io/Web-Hosting-Template/)
 [Repository-Url]()
